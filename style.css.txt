@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('fonts/custom-font.ttf') format('truetype'),
+         url('fonts/custom-font.woff') format('woff');
+}
+
+body {
+    font-family: 'CustomFont', sans-serif; /* Use your custom font */
+    margin: 20px;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.green-text {
+    color: green;
+}
